@@ -1,0 +1,14 @@
+body {
+    background-color: azure;
+}
+.p3 {
+    width: 40%;
+    height: 100%;
+}
+.p4 {
+    width: 40%;
+    height: 100%;
+}
+.text {
+    display: flex;
+}
